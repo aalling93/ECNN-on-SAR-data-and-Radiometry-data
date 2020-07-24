@@ -22,8 +22,6 @@ https://drive.google.com/drive/folders/1r4wy1NTS7uhgJvO991YsAXKmdUdMmYWG?usp=sha
 ----------------------------
 * Motivation with the final report
 * Content of product
-* Code style
-* code example
 * Setup
 * How to use
 * Credits
@@ -44,18 +42,30 @@ This is done in accordance with my studies, and the project is consequently wort
 
 # Content of project 
 --------------------------------
+### Libraries
 ```
 my_cnn
 ```
-*
-*
+Library used for the ECNN
+```
+my_s1
+```
+Loading and working with Sentinel-1 images
 
-# Code style
-------------------------------
+```
+my_s3
+```
+Loading and working with Sentinel-3 images
 
+```
+my_tools
+```
+General tools used in the project
 
-# Code example 
--------------------------
+### Notebooks
+```
+.ipynb
+```
 
 # Setup
 -----------------------
