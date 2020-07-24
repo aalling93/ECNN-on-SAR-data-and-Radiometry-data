@@ -74,7 +74,8 @@ $ git clone https://github.com/aalling93/syntese
 
 # How to use
 ----------------------
-![How to detect fires on Images in folder](https://drive.google.com/file/d/1sB5U7F1uxOTH4p-JQT7KHz4gxajJwPVJ/view?usp=sharing)
+
+![Alt text](aalling93/syntese/not_used/use1.png?raw=true "Title")
 
 # Credits
 ---------------------
