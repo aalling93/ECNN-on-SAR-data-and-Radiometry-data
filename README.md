@@ -15,6 +15,9 @@ Furthermore, an analysis of the Sentinel-1 IW GRD and Sentinel-3 L1 RBT SLSTR fi
 
 The framework works for the intended purposes. Many bugs exists, and problem occurs. Focus has not been on making the best product.
 
+Images used, made training image and more is all shared in 
+https://drive.google.com/drive/folders/1r4wy1NTS7uhgJvO991YsAXKmdUdMmYWG?usp=sharing
+
 # Content
 ----------------------------
 * Motivation with the final report
@@ -35,11 +38,7 @@ Here, the ECNN capabilities for Remote Sensing will be analyzed.
 This is done in accordance with my studies, and the project is consequently worth 10 ECTS points.
 
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<embed src="https://drive.google.com/file/d/1RqxQPLnNQpvNQYHj3ZtX7kfPIeRuL7Wj/view?usp=sharing" width="500" height="375">
 
 
 # Build status
