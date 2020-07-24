@@ -75,10 +75,11 @@ $ git clone https://github.com/aalling93/syntese
 # How to use
 ----------------------
 
-![Alt text](aalling93/syntese/not_used/use1.png?raw=true "Title")
+![Alt text](not_used/use1.png?raw=true "Title")
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/aalling93/syntese/blob/not_used/use1.png?raw=true)
+
 # Credits
 ---------------------
 This project is made me, Kristian Aalling Sørensen, www.linkedin.com/in/ksoerensen. It is made in accordance to my studies on Earth Observation. 
