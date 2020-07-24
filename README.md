@@ -43,6 +43,9 @@ This is done in accordance with my studies, and the project is consequently wort
     </embed>
 </object>
 
+
+
+<a href="https://drive.google.com/file/d/1RqxQPLnNQpvNQYHj3ZtX7kfPIeRuL7Wj/view?usp=sharing" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 # Build status
 ------------------------------
 
