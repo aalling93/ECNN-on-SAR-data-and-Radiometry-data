@@ -24,9 +24,9 @@ https://drive.google.com/drive/folders/1r4wy1NTS7uhgJvO991YsAXKmdUdMmYWG?usp=sha
 * Content of product
 * Code style
 * code example
+* Setup
 * How to use
-* Installation
-* Author
+* Credits
 
 
 # Motivation
@@ -44,11 +44,31 @@ This is done in accordance with my studies, and the project is consequently wort
 
 # Content of project 
 --------------------------------
-* 
+```
+my_cnn
+```
 *
 *
 
 # Code style
 ------------------------------
+
+
+# Code example 
+-------------------------
+
+# Setup
+-----------------------
+```shell
+$ brew update
+$ brew install fvcproductions
+```
+
+# How to use
+----------------------
+
+# Credits
+---------------------
+
 
 
