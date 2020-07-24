@@ -75,10 +75,7 @@ $ git clone https://github.com/aalling93/syntese
 # How to use
 ----------------------
 
-![Alt text](not_used/use1.png?raw=true "Title")
-
-
-![alt text](https://github.com/aalling93/syntese/blob/not_used/use1.png?raw=true)
+![Detecting fires on images in folder](not_used/use1.png?raw=true "Title")
 
 # Credits
 ---------------------
