@@ -21,10 +21,11 @@ https://drive.google.com/drive/folders/1r4wy1NTS7uhgJvO991YsAXKmdUdMmYWG?usp=sha
 # Content
 ----------------------------
 * Motivation with the final report
-* Content of product
+* Libraries
 * Setup
 * How to use
 * Credits
+
 
 
 # Motivation
@@ -40,9 +41,8 @@ This is done in accordance with my studies, and the project is consequently wort
     </embed>
 </object>
 
-# Content of project 
---------------------------------
-### Libraries
+
+# Libraries
 ```
 my_cnn
 ```
@@ -63,9 +63,8 @@ my_tools
 General tools used in the project
 
 ### Notebooks
-```
-.ipynb
-```
+
+See the notebook folder.
 
 # Setup
 -----------------------
@@ -75,6 +74,7 @@ $ git clone https://github.com/aalling93/syntese
 
 # How to use
 ----------------------
+![alt text](https://drive.google.com/file/d/1sB5U7F1uxOTH4p-JQT7KHz4gxajJwPVJ/view?usp=sharing)
 
 # Credits
 ---------------------
