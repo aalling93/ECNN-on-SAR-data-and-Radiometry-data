@@ -70,8 +70,7 @@ General tools used in the project
 # Setup
 -----------------------
 ```shell
-$ brew update
-$ brew install fvcproductions
+$ git clone https://github.com/aalling93/syntese
 ```
 
 # How to use
