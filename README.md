@@ -78,6 +78,7 @@ $ git clone https://github.com/aalling93/syntese
 
 # Credits
 ---------------------
-
+This project is made me, Kristian Aalling Sørensen, www.linkedin.com/in/ksoerensen. It is made in accordance to my studies on Earth Observation. 
+The project is made in collaboration with Inge Sandholt and Kenan Vilic with Henning Skriver as the formal supervisor. 
 
 
