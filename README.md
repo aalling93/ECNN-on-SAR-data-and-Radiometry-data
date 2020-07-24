@@ -5,21 +5,12 @@ data for the detecting of forest fires", made as a part of my studies on Earth a
 
 The abstract from the report is as follows:
 
-Ensemble Convolution Neural Network(ECNN) is a machine learning technique that can
-automatically extract features from arrays and use these features for classification problems.
-In a ECNN, it is possible to combine many type of data sets with the only requirement
-of them being arrays. In this project, the Sentinel-1 SAR data and Sentinel-3
-radiometric data will be used to detect forest fires using such a ECNN. The entire framework
-of a ECNN will be described and implemented in Python using ESA SNAP to pre
-process the data. The resulting classification schema does not classify forest fires correctly,
-with a training accuracy close to 100% and a testing accuracy around 50% equivalent to
-random guessing in a two-class classification problem. It was argued that the ECNN was
-able to extract features that resembled the patterns of the fires. The framework is proved
-to work and could be further improved or adjusted to other problems.
+An Ensemble Convolution Neural Network(ECNN) is a machine learning technique that can automatically extract features from arrays and use these features for classification problems. In an ECNN, it is possible to combine many type of data sets with the only requirement of them being arrays. In this project, the Sentinel-1 SAR data and Sentinel-3 radiometric data will be used to detect forest fires using such an ECNN. The entire framework of an ECNN will be described and implemented in Python using ESA SNAP to pre-process the data. The resulting classification schema does not classify forest fires correctly, with a training accuracy close to 100% and a testing accuracy around 50% equivalent to random guessing in a two-class classification problem. It is argued that the ECNN was able to extract features that resembled the patterns of the fires. The framework is proved to work, and could be further improved or adjusted to other problems.
 
 
-In short, the repository contains the entire implementation of a ECNN, starting with the acqusition of data, making data-set, labelling data-set, 
-making a ECNN model, training the model and lastly using the model for new predictions.
+
+In short, the repository contains the entire implementation of an ECNN, starting with the acqusition of data, making data-set, labelling data-set, 
+making an ECNN model, training the model and lastly using the model for new predictions.
 Furthermore, an analysis of the Sentinel-1 IW GRD and Sentinel-3 L1 RBT SLSTR fire detection capabilities are made(a short one since focus is on the ECNN).
 
 The framework works for the intended purposes. Many bugs exists, and problem occurs. Focus has not been on making the best product.
