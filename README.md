@@ -21,7 +21,6 @@ https://drive.google.com/drive/folders/1r4wy1NTS7uhgJvO991YsAXKmdUdMmYWG?usp=sha
 # Content
 ----------------------------
 * Motivation with the final report
-* Build status
 * Content of product
 * Code style
 * code example
@@ -43,15 +42,13 @@ This is done in accordance with my studies, and the project is consequently wort
     </embed>
 </object>
 
-
-
-<a href="https://drive.google.com/file/d/1RqxQPLnNQpvNQYHj3ZtX7kfPIeRuL7Wj/view?usp=sharing" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
-# Build status
-------------------------------
-
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
-
+# Content of project 
+--------------------------------
+* 
+*
+*
 
 # Code style
 ------------------------------
+
+
