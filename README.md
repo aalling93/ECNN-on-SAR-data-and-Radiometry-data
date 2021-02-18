@@ -57,7 +57,15 @@ prediction_map = cnn.get_prediction_one_image(folder_img='/content/drive/My Driv
 folder_models='/content/drive/My Drive/syntese/data/cnn/models/new',
 verbose=1)
 ```
-with the first input being the image and the second the trained model. 
+with the first input being the image and the second the trained model. With a verbose=1, the following will be printed:
+
+![Printed](not_used/prediction.PNG?raw=true "Title")
+
+And the resulting probability map is shown below:
+
+![Printed](not_used/fire_detection_result.PNG?raw=true "Title")
+
+
 
 
 ## Libraries
