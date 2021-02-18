@@ -53,8 +53,11 @@ Using the link above, images, models and implemneted modules can be downloaded, 
 
 To get a fire detection probability map, use the following function:
 ```python
-prediction_map = cnn.get_prediction_one_image(folder_img='/content/drive/My Drive/syntese/data/cnn/images_testing/image_pair_1',folder_models='/content/drive/My Drive/syntese/data/cnn/models/new',verbose=1)
+prediction_map = cnn.get_prediction_one_image(folder_img='/content/drive/My Drive/syntese/data/cnn/images_testing/image_pair_1',
+folder_models='/content/drive/My Drive/syntese/data/cnn/models/new',
+verbose=1)
 ```
+with the first input being the image and the second the trained model. 
 
 
 ## Libraries
