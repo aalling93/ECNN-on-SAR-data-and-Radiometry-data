@@ -37,7 +37,6 @@ https://drive.google.com/drive/folders/1r4wy1NTS7uhgJvO991YsAXKmdUdMmYWG?usp=sha
 
 
 ## Motivation
-----------------------------
 A growing need for advanced machine learning and deep learning algorithms is the motivating this project.
 Here, the ECNN capabilities for Remote Sensing will be analyzed.
 This is done in accordance with my studies, and the project is worth 10 ECTS points.
@@ -108,7 +107,8 @@ $ git clone https://github.com/aalling93/syntese
 
 # Credits
 ---------------------
-This project is made me, Kristian Aalling Sørensen, www.linkedin.com/in/ksoerensen. It is made in accordance to my studies on Earth Observation. 
+This project is made by me, Kristian Aalling Sørensen, www.linkedin.com/in/ksoerensen. It is made in accordance to my specilisation on Earth Observation. 
 The project is made in collaboration with Inge Sandholt and Kenan Vilic with Henning Skriver as the formal supervisor. 
+
 
 
