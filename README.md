@@ -59,7 +59,7 @@ verbose=1)
 ```
 with the first input being the image and the second the trained model. With a verbose=1, the following will be printed:
 
-![Printed](not_used/prediction.PNG?raw=true "Title")
+![Printed](not_used/predictions.PNG?raw=true "Title")
 
 And the resulting probability map is shown below:
 
