@@ -104,10 +104,7 @@ See the notebook folder.
 $ git clone https://github.com/aalling93/syntese
 ```
 
-# How to use
-----------------------
 
-![Detecting fires on images in folder](not_used/use1.png?raw=true "Title")
 
 # Credits
 ---------------------
