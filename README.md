@@ -1,7 +1,9 @@
 # Implementing an Ensemble Convolutional Neural Network on Sentinel-1 Synthetic Aperture Radar data and Sentinel-3 Radiometric data for the detecting of forest fires
-This Github repository serves as an extension for a report  "Implementing an Ensemble Convolutional Neural Network on
-Sentinel-1 Synthetic Aperture Radar data and Sentinel-3 Radiometric
-data for the detecting of forest fires", made as a part of my studies on Earth and Space Physcis and Engineering, Earth Observation, MSc.
+This Github repository serves as an extension for the report  "Implementing an Ensemble Convolutional Neural Network on
+Sentinel-1 Synthetic Aperture Radar data and Sentinel-3 Radiometric data for the detecting of forest fires", made as a part of my MSc Eng. studies on Earth and Space Physcis and Engineering, with a specialisation in Earth Observation.
+
+## Content
+
 
 The abstract from the report is as follows:
 
