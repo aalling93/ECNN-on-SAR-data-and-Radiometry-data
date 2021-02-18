@@ -65,6 +65,8 @@ And the resulting probability map is shown below:
 
 ![Printed](not_used/fire_detection_result.PNG?raw=true "Title")
 
+We can **clearly** see a correlation with the actualy fire (shown to the left) with the predicted fire(shown in red to the right). Similary, we can see that e.g. clouds have a low probability of being a fire. This is remarkable considering only about 20 original subsets was used for training (they were aurgmented). -- This is not enough data, but still illustrated the possibilities.
+
 
 
 
@@ -82,6 +84,10 @@ Loading and working with Sentinel-1 images
 my_s3
 ```
 Loading and working with Sentinel-3 images
+```
+my_modis
+```
+Loading and working with MODIS data. 
 
 ```
 my_tools
