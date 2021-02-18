@@ -94,6 +94,13 @@ my_tools
 General tools used in the project
 
 ### Notebooks
+
+
+```
+preparing_tutorial.ipynb
+```
+This notebook walks through the steps done in the preparation. It is meant as a summary of the results. Few comments are made.
+
 ```
 s1_analysis_fires.ipynb
 ```
@@ -126,11 +133,6 @@ This notebook shows how the CNNs are made. The arcitectures are defined using ma
 cnn_testing.ipynb
 ```
 The models capabilities are here tested. The cnn_training.ipynb shows how a model is found. These models are here used to detect fires with a certain probability on an entire image.
-
-```
-preparing_tutorial.ipynb
-```
-This notebook walks through the steps done in the preparation. It is meant as a summary. Few comments are made, and many functions are "hidded" withing the main functions. 
 
 # Setup
 -----------------------
